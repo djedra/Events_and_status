@@ -1,0 +1,12 @@
+.app {
+  margin: 0 auto;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .app {
+    padding: 2rem;
+  }
+}
